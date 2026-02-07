@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://yohanncch.studio">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=B8E6FE&height=300&section=header&text=Yohann%20CCH%&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20GenAI%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" alt="Yohann Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=B8E6FE&height=300&section=header&text=Yohann%20CCH%&fontSize=90&animation=fadeIn&fontAlignY=38&desc=GenAI%20Developer%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" alt="Yohann Header" />
   </a>
 
   <div align="center">
