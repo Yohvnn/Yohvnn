@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full Stack GenAI Engineer** and **MSc Data Science & AI Student** bridging the gap between research and production. I specialize in designing end-to-end solutions—from complex backend orchestration to fluid frontend user experiences.
+I am a **Gen AI Developer** and **MSc Data Science & AI Student** bridging the gap between research and production. I specialise in designing end-to-end solutions—from complex backend orchestration to fluid frontend user experiences.
 
 - 🔭 I’m currently working on **Industrializing GenAI Use Cases (RAG, Agents)** at **Crédit Agricole Personal Finance & Mobility**.
 - 🌱 I’m currently learning **MCP (Model Context Protocol)**, **Advanced Agentic Workflows**, and **Cloud Architecture**.
